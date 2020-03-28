@@ -1,4 +1,4 @@
-# todo-app
+# Guess-A-Number-App
 A Basic Guess A Number App in React Native
 
 ### Steps to run this application
